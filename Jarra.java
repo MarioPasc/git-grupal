@@ -42,5 +42,6 @@ public class Jarra { // atributos
     public void metodoComunitario() {
         // Comentario incluido para pruebas
         System.out.println("Gonzalo Mesas Aranda");
+        System.out.println("Mario Pascual González");
     }
 }

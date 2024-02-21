@@ -12,6 +12,12 @@ public class Jarra { // atributos
 
     // metodos
     // 1
+    public int capacidad(){
+        return this.capacidad;
+    }
+    public int cantidad(){
+        return this.cantidad;
+    }
     // 2
     public void llena() {
         this.cantidad = this.capacidad;

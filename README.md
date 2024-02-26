@@ -1,6 +1,8 @@
 # Introducción a Git y GitHub conjunto
 
-Este repositorio es el resultado de una práctica guiada diseñada para comprender y utilizar Git para el control de versiones y GitHub para el alojamiento de repositorios de la asignatura "Ingeniería de Software Avanzada", enfocándose en implementar la clase `Jarra.java` a través de diferentes ramas.
+Este repositorio es el resultado de una práctica guiada diseñada para comprender y utilizar Git para el control de versiones y GitHub para el alojamiento de repositorios de la asignatura "Ingeniería de Software Avanzada", enfocándose en implementar la clase `Jarra.java` a través de diferentes ramas. 
+
+Este trabajo fue realizado por **Mario Pascual González y Gonzalo Mesas Aranda**. 
 
 <p align="center">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="200" height="200" alt="Logo de Git"/>
@@ -22,7 +24,7 @@ Cada rama representa un paso en el proceso de aprendizaje colaborativo, mostrand
 Para comenzar con este repositorio, clónalo usando el siguiente comando:
 
 ```bash
-git clone https://github.com/TuUsuario/ProyectoAprendizajeGit.git
+git clone https://github.com/MarioPasc/git-grupal.git
 ```
 
 Una vez clonado, cambia entre ramas usando `git checkout` para explorar y contribuir a los detalles de implementación:
